@@ -1,0 +1,3 @@
+Employee ID: 1010
+Name: Raman
+Salary: 60000
